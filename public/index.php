@@ -1,4 +1,4 @@
 <?php
-    require_once '../app/views/init.php';
+    require_once '../app/init.php';
 
 $app = new App;
